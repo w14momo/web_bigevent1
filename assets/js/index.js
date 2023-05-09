@@ -11,6 +11,7 @@ $(function () {
         })
     })
 })
+// 获取用户信息，渲染头像及名称
 function getUserInfo() {
     $.ajax({
         method: 'GET',
