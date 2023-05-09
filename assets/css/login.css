@@ -7,7 +7,9 @@ body {
     background: url('/assets/images/login_bg.jpg') no-repeat center;
     background-size: cover;
 }
-
+.layui-main{
+    margin-top: 30px;
+}
 .loginAndRegBox {
     width: 400px;
     height: 310px;
